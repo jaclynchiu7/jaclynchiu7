@@ -1,4 +1,4 @@
-Hi, my name is Jaclyn Chiu and I am pursuing a Master of Engineering in Data Science at UCLA and expect to graduate September 2023. In June 2022, I graduated from UCLA with a Bachelor of Science in Statistics. My field of interests include healthcare and technology. My programming skillset includes Python, R, Tableau, and SQL. As an aspiring data scientist, I hope to apply the newest maching learning algorithms to advance technological devices.
+Hi, my name is Jaclyn Chiu and I am pursuing a Master of Engineering in Data Science at UCLA and expect to graduate August 2023. In June 2022, I graduated from UCLA with a Bachelor of Science in Statistics. My field of interests include healthcare and technology. My programming skillset includes Python, R, Tableau, and SQL. As an aspiring data scientist, I hope to apply the newest maching learning algorithms to advance technological devices.
 <!--
 **jaclynchiu7/jaclynchiu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
